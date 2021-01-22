@@ -2,9 +2,9 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-        <img src="#" alt="">
+        <img src="../assets/seba-1.jpg" alt="">
       </div >
-      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+      <div class="my-auto col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
         <h2>Soy<strong> Sebastian Uribe</strong>, Chef de profesión por un poco más de 15 años y actualmente reinventando mi carrera hacia la programacion, en estos momentos estoy egresado del bootcamp 'Front End (VueJs)' que imparte Desafío Latam y próximamente en marzo comenzaré a perfeccionar mis conocimientos en Ingeniería en informática.</h2>
       </div>
 
@@ -43,8 +43,7 @@ strong{
 img{
   background: linear-gradient(45deg, black,rgb(28, 145, 153),  black);
   width: 100%;
-  height: 400px;
-  padding: 40px;
+  height: auto;
   margin: 50px 0;
   border-radius: 50%;
   border: 10px solid rgb(209, 212, 25);
@@ -55,6 +54,7 @@ img{
   box-shadow: 0 0 10px white;
 
 }
+
 
 
  
