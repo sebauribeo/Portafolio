@@ -24,7 +24,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://github.com/sebauribeo/Prueba-2.git" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Repositorio</a>
+                    <a type="button" href="https://trekkinglanding.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live demo</a>
                   </div>
                 </div>
               </div>
@@ -53,7 +53,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://github.com/sebauribeo/Pokedex.git" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Repositorio</a>
+                    <a type="button" href="https://personajespokedex.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live demo</a>
                   </div>
                 </div>
               </div>
@@ -82,7 +82,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://github.com/sebauribeo/Rick-Morty__personajes.git" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Repositorio</a>
+                    <a type="button" href="https://personajesrickandmorty.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live demo</a>
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://github.com/sebauribeo/Suricata.git" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Repositorio</a>
+                    <a type="button" href="https://zuricata.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live demo</a>
                   </div>
                 </div>
               </div>
@@ -140,7 +140,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://github.com/sebauribeo/Prueba-Vuex-Api.git" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Repositorio</a>
+                    <a type="button" href="https://rickandmortyvuex.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live demo</a>
                   </div>
                 </div>
               </div>
@@ -169,7 +169,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://jugueteria-401b0.web.app/" target="_blank" class="btn btn-warning col rounded-pill boton">Ver Página Web</a>
+                    <a type="button" href="https://jugueteria-401b0.web.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live Demo</a>
                   </div>
                 </div>
               </div>
