@@ -169,7 +169,7 @@
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-danger col rounded-pill boton" data-dismiss="modal">Cerrar</button>
-                    <a type="button" href="https://jugueteria-401b0.web.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live Demo</a>
+                    <a type="button" href="https://ottoklausjugueteria.netlify.app/" target="_blank" class="btn btn-warning text-white col rounded-pill boton">Live Demo</a>
                   </div>
                 </div>
               </div>
